@@ -20,9 +20,7 @@
 
 Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for
 handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Uber Clone is a perfect
-mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's
-skills in a unique manner that creates a lasting impact.
-
+mobile app.
 
 
 - React Native
