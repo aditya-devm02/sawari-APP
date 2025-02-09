@@ -7,8 +7,6 @@
        <img src="https://github.com/aditya-devm02/sawari-APP/blob/main/assets/images/Screenshot%202025-02-03%20at%209.48.32%E2%80%AFPM.png">
        <img src="">
        <img src="">
-  
-    </a>
   <br />
 
   <div>
